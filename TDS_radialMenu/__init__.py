@@ -1,3 +1,5 @@
+## path has changed
+
 from .TDS_buildRadialMenu_UI import buildRadialMenu_UI
 
 from . import radialWidget
@@ -78,4 +80,5 @@ def on_rmb_hold_show_menu(screen_pos):
 # radialMenu_main.toggle_smart_preset()
 
 # # Uninstall the radial menu
+
 # radialMenu_main.uninstall_radial_menu()
